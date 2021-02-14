@@ -1,0 +1,37 @@
+Package: com.lg.tsum1
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer:
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.lg.tsum1_0.1_iphoneos-arm.deb
+Size: 5154
+MD5sum: 63c31af6221fea6947a8a0a0e323964d
+SHA1: 4545055197609599fafce8a4db7bfbab3e4997f2
+SHA256: 330e8dd447fe531e90e03b23797580e4fa1127772a5bb710c6950e2b55716cf8
+SHA512: f197cb187153d5a1b8bdab2630d583cb066fa1c03d308d3eea049ea6af9ac7e042e628184ec495b21922e62a050a5ded902fd95902c1f413d6c48f13de2f98d4
+Description:
+Name: LINELogin
+Author:
+
+Package: com.lg.tsum
+Architecture: iphoneos-arm
+Version: 1.90.3
+Section: Tweaks
+Maintainer: System Administrator
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debs/com.lg.tsum_1.90.3_iphoneos-arm.deb
+Size: 205140
+MD5sum: 05798cec803f9344fd88639617b3362f
+SHA1: e3a2d3a865d9388e76dc13358a9d74cd34867c66
+SHA256: 88be24141fc4f782e58eb77bc58fa28e432d415964934d2a1d6358f3998ce3dc
+SHA512: 18fa8f888833c945ea063ab8bddf6ead9308010e202a7f349d84e462a856107be8f5d40329fb7f8f40e90978a7a25898f520289e4e18865bad80af7fdb130103
+Homepage:
+Description:
+Name: TsumTsum
+Author: System Administrator
+Icon: file:////Library/icon/AppIcon60x60@2x.png
+Depiction: https://ios41oe.github.io/41oe/index.html
+
